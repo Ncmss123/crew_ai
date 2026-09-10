@@ -1,0 +1,6 @@
+streamlit>=1.36.0
+crewai>=0.80.0
+langchain>=0.3.0
+litellm>=1.74.0
+tenacity>=9.0.0
+python-dotenv>=1.0.1
